@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 9 mar 2023, 18:28:13
+    Author     : Manne
+*/
+
+body{
+    background: radial-gradient(#ef476f,#06d6a0);
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    border-radius: 20px;
+    position: absolute;
+    background-color:rgba(255, 255, 255, .5);
+    padding: 50px;
+}
+.cointainer h1{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
